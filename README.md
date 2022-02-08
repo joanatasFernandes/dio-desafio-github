@@ -1,2 +1,5 @@
 # dio-desafio-github
-desafio do Bootcamp Dio, criar um repositorio através do Git /github
+Repositório para desafio de projetos.
+
+## Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
